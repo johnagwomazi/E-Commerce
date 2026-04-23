@@ -74,7 +74,7 @@ function Home() {
   }
 
   return (
-    <div className="bg-gray-1 00">
+    <div className="bg-gray-100">
       <div className="bg-orange-500 text-white text-sm">
         <div className="max-w-6xl mx-auto px-4 py-2 flex items-center justify-between">
           <span className="font-semibold">Call to order: 0700-600-0000</span>

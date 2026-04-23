@@ -84,7 +84,7 @@ function Cart() {
                       0
                     );
 
-                    const message = `🛒 *New Order* \n\n${itemsMessage}\n\n💰 Total: $${total.toFixed(
+                    const message = `*New Order* \n\n${itemsMessage}\n\n Total: $${total.toFixed(
                       2
                     )}`;
 
